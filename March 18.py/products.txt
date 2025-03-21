@@ -1,0 +1,5 @@
+1,Apple,1.50
+2,Banana,0.99
+3,Orange,1.05
+4,Milk,5.50
+5,Eggs,6.99
